@@ -1,0 +1,2 @@
+# ZuriTask
+Django venv
